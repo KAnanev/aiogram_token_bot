@@ -1,0 +1,4 @@
+python == 3.8
+aiogram == 2.14.3
+python-dotenv == 0.18.0
+requests == 2.26.0
